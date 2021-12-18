@@ -1,0 +1,1 @@
+﻿Dependency injection is very helpful and effective.

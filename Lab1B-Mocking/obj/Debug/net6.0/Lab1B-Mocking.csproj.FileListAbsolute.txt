@@ -1,0 +1,15 @@
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\bin\Debug\net6.0\Lab1B-Mocking.exe
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\bin\Debug\net6.0\Lab1B-Mocking.deps.json
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\bin\Debug\net6.0\Lab1B-Mocking.runtimeconfig.json
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\bin\Debug\net6.0\Lab1B-Mocking.dll
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\bin\Debug\net6.0\ref\Lab1B-Mocking.dll
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\bin\Debug\net6.0\Lab1B-Mocking.pdb
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.csproj.AssemblyReference.cache
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.AssemblyInfoInputs.cache
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.AssemblyInfo.cs
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.csproj.CoreCompileInputs.cache
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.dll
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\ref\Lab1B-Mocking.dll
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.pdb
+C:\Users\bijay\CleanCode\Lab1B-Mocking\Lab1B-Mocking\obj\Debug\net6.0\Lab1B-Mocking.genruntimeconfig.cache
