@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Lab1B_Mocking
+﻿namespace Lab1B_Mocking
 {
     public class StringModifier
     {
@@ -19,8 +13,7 @@ namespace Lab1B_Mocking
 
         public string Run()
         {
-            string data = _dataProvider.Read();            
-
+            string data = _dataProvider.Read();   
             string manipulatedString = _stringManipulator.Manipulate(data);
             return manipulatedString;
         }

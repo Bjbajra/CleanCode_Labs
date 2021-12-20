@@ -1077,6 +1077,16 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XmlDocument.dll": {}
         }
+      },
+      "Lab1B-Mocking/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Lab1B-Mocking.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Lab1B-Mocking.dll": {}
+        }
       }
     }
   },
@@ -4498,10 +4508,16 @@
         "system.xml.xmldocument.4.3.0.nupkg.sha512",
         "system.xml.xmldocument.nuspec"
       ]
+    },
+    "Lab1B-Mocking/1.0.0": {
+      "type": "project",
+      "path": "../Lab1B-Mocking/Lab1B-Mocking.csproj",
+      "msbuildProject": "../Lab1B-Mocking/Lab1B-Mocking.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
+      "Lab1B-Mocking >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.11.0",
       "Moq >= 4.16.1",
       "NUnit >= 3.13.2",
@@ -4535,7 +4551,11 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\bijay\\CleanCode\\Lab1B-Mocking\\Lab1B-Mocking\\Lab1B-Mocking.csproj": {
+              "projectPath": "C:\\Users\\bijay\\CleanCode\\Lab1B-Mocking\\Lab1B-Mocking\\Lab1B-Mocking.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
